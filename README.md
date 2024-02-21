@@ -5,13 +5,13 @@
 - web3-onboard wallet integration
 - simple and advanced interfaces with optional instructions
 - sending a prompt to on-chain llm
-- securly posting the responses of the llm on-chain
-- submitting preferences for respnses on chain to create RLHF dataset
+- securely posting the responses of the llm on-chain
+- submitting preferences for responses on chain to create RLHF dataset
 - downloading RLHF dataset as a csv or json table
-- the advaned UI has inputs for all contract's functions and setting up the contract's and dApp's addresses
-- interact's with cartesi graphql server
+- the advanced UI has inputs for all contract's functions and setting up the contract's and dApp's addresses
+- interacts with cartesi graphql server
 
-## Configurtion
+## Configuration
 
 Edit src/config.json to set the testnet parameters and deployment, inspect, graphql, rpc addresses.
 
